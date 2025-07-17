@@ -18,8 +18,8 @@ This repository contains sample QA documentation created as part of manual testi
 
 ##  Project Info
 
-**Practice Project**: Based on OpenCart (a free and open-source eCommerce platform)
-**Created By**: Enosh Rai
+- **Practice Project**: Based on OpenCart (a free and open-source eCommerce platform)
+- **Created By**: Enosh Rai
 
 ---
 
