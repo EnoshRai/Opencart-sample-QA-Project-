@@ -7,7 +7,7 @@ This repository contains sample QA documentation created as part of manual testi
 -  **Test_Cases_OpenCart.xlsx** – Detailed test scenarios with steps, expected results, and priorities.
 -  **Bug_Report_OpenCart.xlsx** – Defect log with severity, priority, steps to reproduce, and status.
 -  **Test_Execution_Status.xlsx** – Execution results for each test case.
--  **Traceability_Matrix.xlsx** – Mapping of requirements to test cases.
+-  **Requirement_Traceability_Matrix.xlsx** – Mapping of requirements to test cases.
 
 ## Concepts Used
 
